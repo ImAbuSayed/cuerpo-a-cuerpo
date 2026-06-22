@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cuerpo-a-cuerpo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Cuerpo a cuerpo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cuerpo-a-cuerpo/) |
+| **Get License** | [Music Rights & Licensing for Cuerpo a cuerpo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cuerpo-a-cuerpo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime si esta noche tú te escapas conmigo
+> Que la disco está llena pero solo te miro
+> Siento la tensión, un magnetismo prohibido
+> Cuerpo a cuerpo, bailando, perdiendo el sentido
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
